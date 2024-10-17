@@ -104,4 +104,11 @@
         vertical-align: middle;
         cursor: pointer;
     }
+
+
+    @media  all and (max-width:768px)  {
+        .inputBox {
+            width: 80%;
+        }
+    }
 </style>

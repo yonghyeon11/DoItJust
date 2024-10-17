@@ -65,4 +65,10 @@
         opacity: 0;
         transform: translate(30px);
     }
+
+    @media  all and (max-width:768px)  {
+        ul {
+            width: 80%;
+        }
+    }
 </style>
